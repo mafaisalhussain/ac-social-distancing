@@ -6,7 +6,8 @@ A real-time social distancing violation detector running on **NVIDIA Jetson Nano
 
 ## Demo
 
-> *(Add your screenshot here)*
+<img width="2560" height="1440" alt="Screenshot from 2026-04-30 22-25-42" src="https://github.com/user-attachments/assets/17f0f03c-b855-454c-9363-0e2b16407954" />
+
 
 ---
 
